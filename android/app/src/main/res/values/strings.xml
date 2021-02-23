@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">admobMA</string>
+    <string name="title_activity_main">admobMA</string>
+    <string name="package_name">com.admobMA.ma</string>
+    <string name="custom_url_scheme">com.admobMA.ma</string>
+</resources>
